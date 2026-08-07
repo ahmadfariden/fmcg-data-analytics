@@ -355,26 +355,6 @@ Struktur direktori repository ini dirancang rapi dan modular sesuai standar ente
 - **Business Intelligence & Reporting:** Microsoft Power BI / Power Query
 - **Data Modeling:** Star Schema / Snowflake Schema
 - **Documentation & Version Control:** Markdown, Git & GitHub
-
----
-
-## 🚀 Quick Start
-
-1. **Clone Repository:**
-   ```bash
-   git clone https://github.com/ahmadfariden/FMCG_Enterprise_Analytics.git
-   cd FMCG_Enterprise_Analytics
-   ```
-
-2. **Run SQL Scripts:**
-   Eksekusi skrip SQL di direktori `/sql` secara berurutan pada DuckDB atau SQL Client pilihan Anda:
-   ```bash
-   # Jalankan skrip 08 hingga 12 untuk proses profiling & cleaning data
-   ```
-
-3. **Explore Documentation:**
-   Buka folder `/docs` untuk mempelajari alur proyek, arsitektur data, *data dictionary*, hingga *business action plan*.
-
 ---
 ## 🎯 Analytics Mindset
 
