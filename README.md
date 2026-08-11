@@ -115,13 +115,16 @@ Berikut adalah tampilan dari dasbor interaktif Power BI yang telah dikembangkan:
 ![Branch Performance](screenshots/02_Branch_Performance.png)
 
 ### 3. Distributor Performance
-![Distributor Performance](screenshots/03_Distributor_Performance.png)
+![Distributor Performance](screenshots/03_Inventory_and_Operations.png)
 
 ### 4. Inventory & Operations
-![Inventory and Operations](screenshots/04_Inventory_and_Operations.png)
+![Inventory and Operations](screenshots/04_Distributor_Performance.png)
 
 ### 5. Product & SKU Analysis
-![Product and SKU](screenshots/05_Product_and_SKU.png)
+![Product and SKU](screenshots/05_Producta_and_SKU.png)
+
+### 5. Product & SKU Analysis
+![Model View](screenshots/00_Model_View.png)
 
 </div>
 
