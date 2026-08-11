@@ -123,7 +123,7 @@ Berikut adalah tampilan dari dasbor interaktif Power BI yang telah dikembangkan:
 ### 5. Product & SKU Analysis
 ![Product and SKU](screenshots/05_Producta_and_SKU.png)
 
-### 5. Model View
+### 6. Model View
 ![Model View](screenshots/00_Model_View.png)
 
 </div>
